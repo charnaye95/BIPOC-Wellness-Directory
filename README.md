@@ -6,6 +6,7 @@ Our project for the 2022 Girl Develop It Hack for Health Hackathon  - We won Jud
 
 # What we built
 Tech Stack: React, JavaScript, HTML, CSS
+ <br />
 We decided to create a mockup site for a BIPOC (Black, Indigenous, and People of Color) Wellness Directory. 
 
 # Why?
